@@ -1,3 +1,10 @@
+#Introduction
+
+This repository holds R code and data for the Coursera course: Getting and Cleaning data.  Human Activity Recognition Using Smartphones is the dataset being used. The script to perform the data analysis is called run_analysis.R. The results are a tidy dataset, new modes calculated, data labeled, and several new datasets created. 
+
+
+
+
 # Getting-and-Cleaning-Data
 Please see comments next to the # for details on how the code works. 
 
